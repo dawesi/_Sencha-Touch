@@ -1,2 +1,3 @@
-Sencha
+Sencha Touch Stuff
 ======
+
